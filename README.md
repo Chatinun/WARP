@@ -14,7 +14,7 @@ When then Animal Ready to Punish.
 
 **Package Unity** : https://drive.google.com/file/d/1jlv1We4-QYJlMxbjsT0duJbEUNN4lbHg/view?usp=sharing
 
-**ใน Github ขาดไฟล์ **FinalProject/Library/ArtifactDB** เพราะขนาดใหญ่เกิน 100MB ผมเลยต้องเอาออกไม่งั้นมันอัพโปรเจคขึ้น Github ไม่ได้อะครับ 
+**ใน Github ขาดไฟล์ FinalProject/Library/ArtifactDB เพราะขนาดใหญ่เกิน 100MB ผมเลยต้องเอาออกไม่งั้นมันอัพโปรเจคขึ้น Github ไม่ได้อะครับ 
 ผมเลยขออัพไฟล์โปรเจคเต็มๆไว้ใน Google Drive อีกทางนะครับ 
 
 **Project File** : https://drive.google.com/file/d/1qiTwFftMXiycXFKVLDLCQx7rR0qXoyUm/view?usp=sharing
